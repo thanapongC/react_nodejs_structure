@@ -1,0 +1,6 @@
+{
+    "PORT": "7000",
+    "HOSTNAME": "localhost",
+    "USERNAMEDATABASE": "root",
+    "PASSWORD": ""
+}

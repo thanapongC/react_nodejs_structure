@@ -1,0 +1,18 @@
+{
+  "dev": {
+    "driver": "mysql",
+    "host": "hostfromlocal or ipaddressfromlocal example: 0.0.0.0",
+    "port": "portfromlocal example: 3306",
+    "user": "usernamedatabasefromlocal",
+    "password": "passworddatabasefromlocal",
+    "database": "databasenamefromlocal"
+  },
+  "production": {
+    "driver": "mysql",
+    "host": "hostfromHost or ipaddressfromHost example: 0.0.0.0",
+    "port": "portfromHost example: 3306",
+    "user": "usernamedatabasefromHost",
+    "password": "passworddatabasefromHost",
+    "database": "databasenamefromHost"
+  }
+}
